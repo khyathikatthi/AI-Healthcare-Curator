@@ -1,0 +1,24 @@
+---
+
+### *.gitignore*  
+
+```plaintext
+# Node modules  
+node_modules/  
+
+# Environment variables  
+.env  
+
+# Logs & cache  
+logs/  
+*.log  
+npm-debug.log*  
+
+# Compiled files  
+dist/  
+build/  
+
+# IDE files  
+.vscode/  
+.idea/  
+.DS_Store
